@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **backend development**
 
-- 👨‍💻 All of my projects are available at https://github.com/petritnuredini [https://github.com/petritnuredini](https://github.com/petritnuredini)
+- 👨‍💻 All of my projects are available at [https://github.com/petritnuredini](https://github.com/petritnuredini)
 
 - 💬 Ask me about **React, JavaScript**
 
