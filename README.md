@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petritnuredini&label=Profile%20views&color=0e75b6&style=flat" alt="petritnuredini" /> </p>
 
-- 🔭 I’m currently working on **NATO-KFOR**
+- 👨‍💻 I’m currently working for [NATO-KFOR](https://jfcnaples.nato.int/kfor)
 
 - 🌱 I’m currently learning **NodeJS**
 
