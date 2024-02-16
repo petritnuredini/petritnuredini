@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **backend development**
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://www.petritnuredini.com)
 
 - 💬 Ask me about **React, JavaScript**
